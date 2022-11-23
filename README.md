@@ -1,6 +1,6 @@
-[stars-img]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?color=yellow
+[stars-img]: https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=yellow
 [stars-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/stargazers
-[fork-img]: https://img.shields.io/github/forks/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightblue&label=fork
+[fork-img]: https://img.shields.io/github/forks/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=lightblue&label=fork
 [fork-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/network/members
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=LIANGKE23.Awesome-Knowledge-Graph-Reasoning
 [AKGR-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
