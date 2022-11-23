@@ -440,7 +440,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
     <td align="center">36031</td>
     <td align="center">3200</td>
     <td align="center">35411</td>
-    <td align="center">3-</td>
+    <td align="center">-</td>
     <td align="center">31059</td>
   </tr>
   <tr>
