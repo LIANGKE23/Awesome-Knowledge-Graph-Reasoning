@@ -21,7 +21,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 - - - [Inductive Datasets](#ISKRD)
 - - [Temporal Knowledge Graphs](#TKG) 
 - - [Multi-Modal Knowledge Graphs](#MMKG)
-- [Static Knowledge Graph Reasoning](#S-KGR)
+- [Static Knowledge Graph Reasoning Papers](#S-KGR)
 - - [Translational Models](#TM)
 - - [Tensor Decompositional Models](#TDM)
 - - [Neural Network Models](#NNM)
@@ -30,12 +30,12 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 - - - [Graph Neural Network Models](#GNN)
 - - [Path-based Models](#PM)
 - - [Rule-based Models](#RM)
-- [Temporal Knowledge Graph Reasoning](#T-KGR)
+- [Temporal Knowledge Graph Reasoning Papers](#T-KGR)
 - - [Attribute Enhanced Models](#AM)
 - - - [Extra-Weight Enhanced Models](#EWEM)
 - - - [Extra-Embedding Enhanced Models](#EEEM)
 - - [RNN-based Models](#RNNM)
-- [Multi-Modal Knowledge Graph Reasoning](#MM-KGR)
+- [Multi-Modal Knowledge Graph Reasoning Papers](#MM-KGR)
 
 
 [//]: # (- [Useful Libararies]&#40;#Useful-Libararies&#41;)
