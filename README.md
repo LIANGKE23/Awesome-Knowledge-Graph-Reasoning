@@ -35,18 +35,8 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 - - [Time-Operation Guided Models](#EEEM)
 - - [RNN-based Models](#RNNM)
 - [Multi-Modal Knowledge Graph Reasoning Papers](#MM-KGR)
+- [Useful Libararies](#Useful-Libararies)
 
-[//]: # (- [Useful Libararies]&#40;#Useful-Libararies&#41;)
-
-[//]: # (- [Temporal Knowledge Graphs]&#40;#TKG&#41;)
-
-[//]: # (- - - [Interpolation Datasets]&#40;#ITKRD&#41;)
-
-[//]: # (- - - [Extrapolation Datasets]&#40;#ETKRD&#41;)
-
-[//]: # (- - [Multi-Modal Knowledge Graphs]&#40;#MMKG&#41;)
-
-[//]: # (- [Useful Libararies]&#40;#Useful-Libararies&#41;)
 
 
 
@@ -76,6 +66,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |     [FB122](https://drive.google.com/file/d/1pgXZEeAMoV8xUi9G6dC7NtTE1UKM9xPz/view?usp=share_link)      |    9738    |     122     |      91638       |      9595       |      11243      |                             [Link](https://aclanthology.org/D16-1019.pdf)                              |  
 |     [FB15k](https://drive.google.com/file/d/1dAJ19TelcMDPCmCcrlAgKw3M9bN-SGas/view?usp=share_link)      |   14951    |    1345     |      483142      |      50000      |      59071      | [Link](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) |   
 |     [FB20k](https://drive.google.com/file/d/1GIEc0ltFr-cAA--PHsfW1iXJJ1mUu6n2/view?usp=share_link)      |   19923    |    1345     |      472860      |      48991      |      90149      |                              [Link](https://arxiv.org/pdf/1711.03438.pdf)                              |   
+|     [FB24k](https://drive.google.com/file/d/1gENQMFLk_aiK7RgmFsbsOpZyt0jHiPC2/view?usp=share_link)      |   23634    |    673     |      402493      |      -     |      21067      |                              [Link](https://www.ijcai.org/Proceedings/16/Papers/407.pdf)                              |
 |   [FB15K-237](https://drive.google.com/file/d/1SYVUTXnRVwyeFcbqbzl-fO-oUDfbhnSi/view?usp=share_link)    |   14505    |     237     |      272115      |      17535      |      20466      |                           [Link](https://www.aclweb.org/anthology/W15-4007/)                           |  
 |  [FB60K-NYT10](https://drive.google.com/file/d/1JDSSCNAPMmNVKsZL8VjOZ4aEH29RE1J-/view?usp=share_link)   |   69514    |    1327     |      268280      |      8765       |      8918       |                              [Link](https://arxiv.org/pdf/1909.00230.pdf)                              |
 |                    [Hetionet](https://github.com/hetio/hetionet/tree/master/hetnet)                     |   45158    |     24      |     1800157      |     225020      |     225020      |                              [Link](https://doi.org/10.7554/eLife.26726)                               |  
@@ -486,14 +477,227 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |     [YOGA-3SP](https://drive.google.com/file/d/1R9ntsxbEzplqHp4Gd14l1nwLQ7LaxQEI/view?usp=share_link)     |   27009    |     37      |      3       |      124757      |        3000     |      3000       |             [Link](https://arxiv.org/pdf/1910.06708.pdf)              |   
 |     [YOGA15k](https://drive.google.com/file/d/1tDl-Mx089oWqLFicLREe677SzaDwLASn/view?usp=share_link)      |   15403    |     34      |     198      |      110441      |      13815      |      13800      |             [Link](https://aclanthology.org/D18-1516.pdf)             |  
 |     [YOGA1830](https://drive.google.com/file/d/1fo5j8cLzrwQRs4IDX2qZPm4vtsbnXWrx/view?usp=share_link)     |   10038    |     10      |     205      |      51205       |      10973      |      10973      |           [Link](https://iclr.cc/virtual/2021/poster/3378)            |  
-| [WIKI/Wikidata12k](https://drive.google.com/file/d/1T-uYa24G4qyaE_dC-Hh6gzCEWo1EuxNo/view?usp=share_link) |   12554    |     24      |     232      |     2735685      |     341961      |     341961      |        [Link](https://aclanthology.org/2022.acl-short.32.pdf)         |   
+| [WIKI/Wikidata12k](https://drive.google.com/file/d/1T-uYa24G4qyaE_dC-Hh6gzCEWo1EuxNo/view?usp=share_link) |   12554    |     24      |     232      |     2735685      |     341961      |     341961      |        [Link](https://aclanthology.org/D18-1225.pdf)         |   
 |   [Wikidata11k](https://drive.google.com/file/d/1mEHg0xYnEoQ-5_BhbhbWxsdM6GZs9BF3/view?usp=share_link)    |   11134    |     95      |     328      |      242844      |      28748      |      14283      |             [Link](https://arxiv.org/pdf/2012.10595.pdf)              |
 |   [Wikidata-big](https://drive.google.com/file/d/1Wk7ztpQx9syUrZ6eb2yNjrVdvLR_hhBr/view?usp=share_link)   |   125726   |     203     |     1700     |      323635      |      5000       |      5000       |             [Link](https://arxiv.org/pdf/2112.05785.pdf)              | 
 
 
 
 ##  Multi-Modal KGR Datasets <span id="MMKG"></span>
-Coming soon
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Dataset</th>
+    <th># Modality </th>
+    <th># Entities</th>
+    <th># Relations</th>
+    <th># Train Triplets</th>
+    <th>#&nbsp;&nbsp;&nbsp;Val. Triplets</th>
+    <th>#&nbsp;&nbsp;&nbsp;Test. Triplets</th>
+    <th>#&nbsp;&nbsp;&nbsp;Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center" colspan="2" rowspan="3"><a href="https://drive.google.com/file/d/1Gv15F4si9ngJAiNEgw0x3oYgPlt2WfBh/view?usp=share_link">FB-IMG-TXT</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >11757</td>
+    <td align="center" rowspan="3">1231</td>
+    <td align="center" rowspan="3">285850</td>
+    <td align="center" rowspan="3">34863</td>
+    <td align="center" rowspan="3">29580</td>
+    <td align="center" rowspan="3"><a href="https://aclanthology.org/S18-2027.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >11757</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >1175700</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="2"><a href="https://drive.google.com/file/d/1ez-uaC-QtkT5LGfZJHVEE0OMWXMXABon/view?usp=sharing">FB15k-237-IMG</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >14541</td>
+    <td align="center" rowspan="2">237</td>
+    <td align="center" rowspan="2">272115</td>
+    <td align="center" rowspan="2">17535</td>
+    <td align="center" rowspan="2">20466</td>
+    <td align="center" rowspan="2"><a href="https://arxiv.org/pdf/2205.02357.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >145410</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="2"><a href="https://imgpedia.dcc.uchile.cl/">IMGpedia</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >14765300</td>
+    <td align="center" rowspan="2">442959000</td>
+    <td align="center" rowspan="2">3119207705</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2"><a href="http://sferrada.com/pdf/imgpediaISWC17.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >44295900</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="9"><a href="https://drive.google.com/file/d/1AA7BIpP3VJm2fsbKa4fOxGTtZXjOERm8/view?usp=share_link">MMKG</a></td>
+    <td align="center" rowspan="3">MMKG-FB15k</td>
+    <td align="center" >KG</td>
+    <td align="center" >14951</td>
+    <td align="center" rowspan="3">1345</td>
+    <td align="center" >592213</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+    <td align="center" rowspan="9"><a href="https://arxiv.org/pdf/1903.05485.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >Numeric Literal</td>
+    <td align="center" >29395</td>
+    <td align="center" >29395</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >13444</td>
+    <td align="center" >13444</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="3">MMKG-DB15k</td>
+    <td align="center" >KG</td>
+    <td align="center" >14777</td>
+    <td align="center" rowspan="3">279</td>
+    <td align="center" >99028</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" >Numeric Literal</td>
+    <td align="center" >46121</td>
+    <td align="center" >46121</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >12841</td>
+    <td align="center" >12841</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="3">MMKG-Yago15k</td>
+    <td align="center" >KG</td>
+    <td align="center" >15283</td>
+    <td align="center" rowspan="3">32</td>
+    <td align="center" >122886</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" >Numeric Literal</td>
+    <td align="center" >48405</td>
+    <td align="center" >48405</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >11194</td>
+    <td align="center" >11194</td>
+    <td align="center" >-</td>
+    <td align="center" >-</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="3">MKG-Wikipedia</td>
+    <td align="center" >KG</td>
+    <td align="center" >15000</td>
+    <td align="center" rowspan="3">169</td>
+    <td align="center" rowspan="3">34196</td>
+    <td align="center" rowspan="3">4274</td>
+    <td align="center" rowspan="3">4276</td>
+    <td align="center" rowspan="6"><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548388">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >14123</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >14463</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="3">MKG-YAGO</td>
+    <td align="center" >KG</td>
+    <td align="center" >15000</td>
+    <td align="center" rowspan="3">28</td>
+    <td align="center" rowspan="3">21310</td>
+    <td align="center" rowspan="3">2663</td>
+    <td align="center" rowspan="3">2665</td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >12305</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >14244</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="2"><a href="https://github.com/wangmengsd/richpedia">RichPedia</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >29985</td>
+    <td align="center" rowspan="2">3</td>
+    <td align="center" rowspan="2">119669570</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2"><a href="https://link.springer.com/chapter/10.1007/978-3-030-41407-8_9">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >2914770</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="3"><a href="https://drive.google.com/file/d/1NF7i5GWdbii5sD7o_-fWK0KkGQcanmHd/view?usp=share_link">WN9-IMG-TXT</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >6555</td>
+    <td align="center" rowspan="3">9</td>
+    <td align="center" rowspan="3">11741</td>
+    <td align="center" rowspan="3">1319</td>
+    <td align="center" rowspan="3">1337</td>
+    <td align="center" rowspan="3"><a href="https://arxiv.org/pdf/1609.07028.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >6555</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >63225</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="2"><a href="https://drive.google.com/file/d/1ez-uaC-QtkT5LGfZJHVEE0OMWXMXABon/view?usp=sharing">WN18-IMG</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >14541</td>
+    <td align="center" rowspan="2">18</td>
+    <td align="center" rowspan="2">141442</td>
+    <td align="center" rowspan="2">5000</td>
+    <td align="center" rowspan="2">5000</td>
+    <td align="center" rowspan="2"><a href="https://arxiv.org/pdf/2205.02357.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >145410</td>
+  </tr>
+</tbody>
+</table>
 
 ## Static Knowledge Graph Reasoning Papers <span id="S-KGR"></span> 
 ### Translational Models <span id="TM"></span> 
@@ -791,7 +995,6 @@ Coming soon
 | 2016     | **IKRL**          | **Image-embodied Knowledge Representation Learning**                                                                               | IJCAI     | Transductive |                                   [Link](https://arxiv.org/pdf/1609.07028.pdf)                                   | [Link](https://github.com/thunlp/IKRL)                   |
 | 2016     | **DKRL**          | **Representation Learning of Knowledge Graphs with Entity Descriptions**                                                            | AAAI      | Transductive |                       [Link](https://ojs.aaai.org/index.php/AAAI/article/view/10329/10188)                       | [Link](https://github.com/xrb92/DKRL)                    |
 | 2016     | **CKE**           | **Collaborative Knowledge Base Embedding for Recommender Systems**                                                  | SIGKDD    | Transductive | [Link](https://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)  | -                                                         |     
-
 
 
 # Useful Libararies <span id="Useful-Libararies"></span>
