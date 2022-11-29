@@ -54,7 +54,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 ## Survey Papers <span id="SP"></span>
 | **Year**   | **Title**                                                                                     |  **Venue**    |                                       **Paper**                                            | **Code** |
 | ---- |----------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------:|:----:|
-| 2022  | **From Static to Temporal then to Multi-Modal: Reasoning over Knowledge Graphs**  |  arXiv    |                   [Link](-)                    |  -   |
+| 2022  | **From Static to Temporal then to Multi-Modal: Reasoning over Knowledge Graphs**  |  arXiv    |                   [Link](-)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **An Overview of Knowledge Graph Reasoning: Key Technologies and Applications**  |  Journal of Sensor and Actuator Networks    |                   [Link](https://www.mdpi.com/2224-2708/11/4/78/pdf)                    |  -   |
