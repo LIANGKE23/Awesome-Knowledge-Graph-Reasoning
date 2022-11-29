@@ -13,7 +13,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][AKGR-url]
 
-# Bookmarks
+# Bookmarks <span id="Menu"></span>
 - [Survey Papers](#SP)
 - [Datasets](#Useful-Datasets)  :fire:
 - - [Static Knowledge Graphs](#SKG)
@@ -88,6 +88,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |    [YAGO3-10](https://drive.google.com/file/d/1SbNyBv_U_rCNJCBeIwgd2EiBxJZE4bPi/view?usp=share_link)    |   123143   |     37      |     1079040      |      4978       |      4982       |         [Link](http://service.tsi.telecom-paristech.fr/cgi-bin//valipub_download.cgi?dId=284)          |  
 |     [YAGO37](https://drive.google.com/file/d/1Nrz7cg543w7CrdFrpxXwZF5UNw9HMs0t/view?usp=share_link)     |   123189   |     37      |      420623      |      50000      |      50000      |                              [Link](https://arxiv.org/pdf/1711.11231.pdf)                              | 
 |   [M-/YAGO39K](https://drive.google.com/file/d/1IOWoa84luYMUEuk0YJOZ3MCtTx6TIWqP/view?usp=share_link)   |   85484    |     39      |      354997      |      9341       |      9364       |                             [Link](https://aclanthology.org/D18-1222.pdf)                              | 
+[Back](#Menu)
 
 ###  Inductive Datasets  <span id="ISKRD"></span>
 <table>
@@ -459,6 +460,8 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 </tbody>
 </table>
 
+[Back](#Menu)
+
 ##  Temporal KGR Datasets <span id="TKG"></span>
 |                                                  Dataset                                                  | # Entities | # Relations | # Timestamps | # Train Triplets | # Val. Triplets | # Test Triplets |                             # Description                             |  
 |:---------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|:------------:|:----------------:|:---------------:|:---------------:|:---------------------------------------------------------------------:|
@@ -480,7 +483,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | [WIKI/Wikidata12k](https://drive.google.com/file/d/1T-uYa24G4qyaE_dC-Hh6gzCEWo1EuxNo/view?usp=share_link) |   12554    |     24      |     232      |     2735685      |     341961      |     341961      |        [Link](https://aclanthology.org/D18-1225.pdf)         |   
 |   [Wikidata11k](https://drive.google.com/file/d/1mEHg0xYnEoQ-5_BhbhbWxsdM6GZs9BF3/view?usp=share_link)    |   11134    |     95      |     328      |      242844      |      28748      |      14283      |             [Link](https://arxiv.org/pdf/2012.10595.pdf)              |
 |   [Wikidata-big](https://drive.google.com/file/d/1Wk7ztpQx9syUrZ6eb2yNjrVdvLR_hhBr/view?usp=share_link)   |   125726   |     203     |     1700     |      323635      |      5000       |      5000       |             [Link](https://arxiv.org/pdf/2112.05785.pdf)              | 
-
+[Back](#Menu)
 
 
 ##  Multi-Modal KGR Datasets <span id="MMKG"></span>
@@ -699,6 +702,8 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 </tbody>
 </table>
 
+[Back](#Menu)
+
 ## Static Knowledge Graph Reasoning Papers <span id="S-KGR"></span> 
 ### Translational Models <span id="TM"></span> 
 | **Year** |    **Model**   |                                                          **Title**                                                          | **Venue** | **Scenario** |                                               **Paper**                                               |                                                             **Code**                                                             |
@@ -760,6 +765,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2014     | **TransM**     |                      **Transition-based Knowledge Graph Embedding with Relational Mapping Properties**                      |  PACLIC   | Transductive |                             [link](https://aclanthology.org/Y14-1039.pdf)                             |                                                                -                                                                 |
 | 2014     | **TransH**     |                                 **Knowledge Graph Embedding by Translating on Hyperplanes**                                 |   AAAI    | Transductive |                [link](https://ojs.aaai.org/index.php/AAAI/article/download/8870/8729)                 |                                                                -                                                                 |
 | 2013     | **TransE**     |                                **Translating Embeddings for Modeling Multi-relational Data**                                |  NeurIPS  | Transductive |   [link](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)   |                                                                -                                                                 |
+[Back](#Menu)
 
 ### Tensor Decompositional Models <span id="TDM"></span>
 | **Year** |  **Model**  |                                            **Title**                                            | **Venue** | **Scenario** |                                               **Paper**                                               |                        **Code**                         |
@@ -784,7 +790,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2016     | **ComplEx**  | **Complex Embeddings for Simple Link Prediction**                                               | ICML      | Transductive | [Link](http://proceedings.mlr.press/v48/trouillon16.html)                                              |        [Link](https://github.com/ttrouill/complex)      |
 | 2015     | **DISTMULT** | **Embedding Entities and Relations for Learning and Inference in Knowledge Bases**              | ICLR      | Transductive | [Link](https://arxiv.org/abs/1412.6575)                                                               |                            -                            |
 | 2011     | **RESCAL**   | **A Three-Way Model for Collective Learning on Multi-Relational Data**                          | ICML      | Transductive | [Link](https://icml.cc/2011/papers/438_icmlpaper.pdf)                                                 |       [Link](https://github.com/mnick/scikit-kge)       |
-
+[Back](#Menu)
 
 ### Neural Network Models <span id="NNM"></span>
 #### Tranditional NN Models <span id="TNN"></span>
@@ -794,6 +800,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2016     | **NAM**   | **Probabilistic Reasoning via Deep Learning: Neural Association Models**        | arXiv            | Transductive | [Link](https://arxiv.org/pdf/1603.07704.pdf)                                                                 |                   -                    |
 | 2013     | **SME**   | **A semantic matching energy function for learning with multi-relational data** | Machine Learning | Transductive | [Link](https://arxiv.org/pdf/1301.3485)                                                                      |                   -                    |
 | 2013     | **NTN**   | **Reasoning With Neural Tensor Networks for Knowledge Base Completion**         | NeurIPS          | Transductive | [Link](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion) |                   -                    |
+[Back](#Menu)
 
 #### CNN Models <span id="CNN"></span>
 | **Year** | **Model Name** |                                                 **Title**                                                | **Venue** | **Scenario** |                                               **Paper**                                               |                     **Code**                     |
@@ -805,6 +812,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2019     | **HypER**      | **Hypernetwork Knowledge Graph Embeddings**                                                              | ICANN     | Transductive |                             [Link](https://arxiv.org/pdf/1808.07018.pdf)                              |                        -                         |
 | 2018     | **ConvKB**     | **A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**          | NAACL-HLT | Transductive |                          [Link](https://www.aclweb.org/anthology/N18-2053/)                           | [Link](https://github.com/daiquocnguyen/ConvKB)  |
 | 2018     | **ConvE**      | **Convolutional 2D Knowledge Graph Embeddings**                                                          | AAAI      | Transductive |                       [Link](https://arxiv.org/pdf/1707.01476.pdf)                                    |   [Link](https://github.com/TimDettmers/ConvE)   |
+[Back](#Menu)
 
 #### GNN Models <span id="GNN"></span>
  |**Year** | **Model**     | **Title**                                                                                                       | **Venue**    | **Scenario**    | **Paper**                                                                                                                                                          | **Code**                                                              |
@@ -849,7 +857,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2019     | **LAN**       | **Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding**                      | AAAI         | Inductive       | [Link](https://arxiv.org/pdf/1811.01399.pdf)                                                                                                                       | [Link](https://github.com/wangpf3/LAN)                                |
 | 2018     | **RGCN**      | **Modeling Relational Data with Graph Convolutional Networks**                                                  | ESWC         | Transductive    | [Link](https://arxiv.org/pdf/1703.06103.pdf)                                                                                                                       | [Link](https://github.com/thiviyanT/torch-rgcn)                       |
 | 2017     | **-**         | **Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach**                      | IJCAI        | Inductive       | [Link](https://arxiv.org/pdf/1706.05674.pdf)                                                                                                                       | [Link](https://github.com/takuo-h/GNN-for-OOKB)                       |
-
+[Back](#Menu)
 
 
 ### Path-based Models <span id="PM"></span>
@@ -866,6 +874,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2015     | **RNNPRA**    | **Compositional Vector Space Models for Knowledge Base Completion**                                              | AAAI             | Transductive | [Link](https://arxiv.org/pdf/1504.06662.pdf)                       | -                                                     |
 | 2014     | **ProPPR**    | **Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases**                          | EMNLP            | Transductive | [Link](https://emnlp2014.org/papers/pdf/EMNLP2014044.pdf)          | -                                                     |
 | 2010     | **PRA**       | **Relational retrieval using a combination of path-constrained random walks**                                    | Machine Learning | Transductive | [Link](https://www.cs.cmu.edu/~wcohen/postscript/ecml-2010-ni.pdf) | -                                                     |
+[Back](#Menu)
 
 ### Rule-based Models <span id="RM"></span>
 | **Year** | **Model**         | **Title**                                                                                       | **Venue** | **Scenario** | **Paper**                                                                                                                          |                        **Code**                        |
@@ -882,6 +891,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2017     | **NeuralLP**      | **Differentiable learning of logical rules for knowledge base reasoning**                       | NeurIPS   | Inductive    | [Link](https://arxiv.org/pdf/1702.08367.pdf)                                                                                       | [Link](https://github.com/fanyangxyz/Neural-LP)        |
 | 2016     | **KALE**          | **Jointly embedding knowledge graphs and logical rules**                                        | EMNLP     | Inductive    | [Link](https://aclanthology.org/D16-1019.pdf)                                                                                      | [Link](https://aclanthology.org/D16-1019/)             |
 | 2013     | **AMIE**          | **AMIE: association rule mining under incomplete evidence in ontological knowledge bases**      | WWW       | Inductive    | [Link](https://resources.mpi-inf.mpg.de/yago-naga/amie/amie.pdf)                                                                   | [Link](https://github.com/lajus/amie)                  |
+[Back](#Menu)
 
 ## Temporal Knowledge Graph Reasoning Papers <span id="T-KGR"></span>
 ### Time-Vector Enhanced Models <span id="EWEM"></span>
@@ -905,6 +915,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |   2020   |      **TNTComplEx**       |                                         **Tensor Decompositions for Temporal Knowledge Base Completion**                                         |   ICLR    | Interpolation |       [Link](https://openreview.net/forum?id=rke2P1BFwS)       |            [Link](https://github.com/facebookresearch/tkbc)             |
 |   2018   |           **-**           |                                                  **Deriving Validity Time in Knowledge Graph**                                                   |    WWW    | Interpolation |   [Link](https://dl.acm.org/doi/pdf/10.1145/3184558.3191639)   |                                    -                                    |
 |   2018   |        **TTransE**        |                                      **Learning Sequence Encoders for Temporal Knowledge Graph Completion**                                      |   EMNLP   | Interpolation |          [Link](https://arxiv.org/pdf/1809.03202.pdf)          |                [Link](https://github.com/mniepert/mmkb)                 |
+[Back](#Menu)
 
 ### Time-Operation Guided Models <span id="EEEM"></span>
 | **Year** |         **Model**         |                                               **Title**                                                | **Venue** |  **Scenario** |                                         **Paper**                                          |                                **Code**                                 |
@@ -929,6 +940,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |   2019   |         **DyRep**         |                        **DyRep: Learning Representations over Dynamic Graphs**                         |   ICLR    | Extrapolation |                      [Link](https://openreview.net/pdf?id=HyePrhR5KX)                      |                                    -                                    |
 |   2018   |         **HyTE**          |                 **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding**                  |   EMNLP   | Interpolation |           [Link](https://aclanthology.org/D18-1225/?ref=https://githubhelp.com)            |                                    -                                    |
 |   2018   |    **ChronoTranslate**    |                           **Temporal reasoning over event knowledge graphs**                           |   KBCOM   | Interpolation |  [Link](https://dsr.cise.ufl.edu/wp-content/uploads/2018/01/TemporalReasoning_KBCOM.pdf)   |                                    -                                    |
+[Back](#Menu)
 
 ### RNN-based Models <span id="RNNM"></span>
 | **Year** |    **Model**     |                                                            **Title**                                                             |       **Venue**        |  **Scenario** |                                         **Paper**                                          |                                **Code**                                |
@@ -950,7 +962,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 |   2020   |    **RE-NET**    |                  **Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**                   |         EMNLP          | Extrapolation |               [Link](https://www.aclweb.org/anthology/2020.emnlp-main.541/)                |               [Link](https://github.com/INK-USC/RE-Net)                |
 |   2018   | **TA-DISTMULT**  |                              **Learning Sequence Encoders for Temporal Knowledge Graph Completion**                              |         EMNLP          | Interpolation |                        [Link](https://arxiv.org/pdf/1809.03202.pdf)                        |                                   -                                    |
 |   2017   | **Know-Evolve**  |                              **Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**                               |          ICML          | Extrapolation |                  [Link](http://proceedings.mlr.press/v70/trivedi17a.html)                  |                                   -                                    |
-
+[Back](#Menu)
 
 ## Multi-Modal Knowledge Graph Reasoning <span id="MM-KGR"></span>
 | **Year** |     **Model**     |                                                              **Title**                                                             | **Venue** | **Scenario** |                                                    **Paper**                                                     |                         **Code**                         |
@@ -995,7 +1007,7 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 | 2016     | **IKRL**          | **Image-embodied Knowledge Representation Learning**                                                                               | IJCAI     | Transductive |                                   [Link](https://arxiv.org/pdf/1609.07028.pdf)                                   | [Link](https://github.com/thunlp/IKRL)                   |
 | 2016     | **DKRL**          | **Representation Learning of Knowledge Graphs with Entity Descriptions**                                                            | AAAI      | Transductive |                       [Link](https://ojs.aaai.org/index.php/AAAI/article/view/10329/10188)                       | [Link](https://github.com/xrb92/DKRL)                    |
 | 2016     | **CKE**           | **Collaborative Knowledge Base Embedding for Recommender Systems**                                                  | SIGKDD    | Transductive | [Link](https://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)  | -                                                         |     
-
+[Back](#Menu)
 
 # Useful Libararies <span id="Useful-Libararies"></span>
 - LibKGE [code](https://github.com/uma-pi1/kge)
@@ -1005,3 +1017,4 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 - GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
 - AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
+[Back](#Menu)
