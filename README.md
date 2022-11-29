@@ -7,11 +7,22 @@
 
 # AKGR: Awesome Knowledge Graph Reasoning
 
-AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning methods (papers, codes and datasets :fire:). Any other interesting papers and codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning methods (papers, codes and datasets :fire:). Any other interesting papers and codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.  If you use our code or the processed datasets in this repository for your research, please cite our corresponding survey paper in the citation part. :heart:
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][AKGR-url]
+
+## Citation
+
+```
+@inproceedings{AKGR,
+  title={From Static to Temporal then to Multi-Modal: Reasoning over Knowledge Graphs},
+  author={Ke Liang, Lingyuan Meng, Meng Liu, Sihang Zhou, Yue Liu, Xinwang Liu},
+  booktitle={arXiv},
+  year={2022}
+}
+```
 
 # Bookmarks <span id="Menu"></span>
 - [Survey Papers](#SP)
