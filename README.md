@@ -492,9 +492,9 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
     <th># Entities</th>
     <th># Relations</th>
     <th># Train Triplets</th>
-    <th>#&nbsp;&nbsp;&nbsp;Val. Triplets</th>
-    <th>#&nbsp;&nbsp;&nbsp;Test. Triplets</th>
-    <th>#&nbsp;&nbsp;&nbsp;Description</th>
+    <th>#&nbsp;Val. Triplets</th>
+    <th>#&nbsp;Test. Triplets</th>
+    <th>#&nbsp;Description</th>
   </tr>
 </thead>
 <tbody>
