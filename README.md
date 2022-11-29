@@ -1005,4 +1005,3 @@ AKGR is a collection of state-of-the-art (SOTA), novel knowledge graph reasoning
 - GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
 - AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
-- AMKG [Link](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph/blob/master/resource_list_abstract.md#learning-from-different-text-image-pairs-a-relation-enhanced-graph-convolutional-network-for-multimodal-ner)
