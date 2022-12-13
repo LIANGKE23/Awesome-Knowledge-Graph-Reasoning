@@ -948,7 +948,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 [Back](#Menu)
 
 ### RNN-agnostic Models <span id="Others"></span>
-### Time-Vector Guided Models <span id="EWEM"></span>
+#### Time-Vector Guided Models <span id="EWEM"></span>
 | **Year** |         **Model**         |                                                                    **Title**                                                                     | **Venue** |  **Scenario** |                           **Paper**                            |                                **Code**                                 |
 |:--------:|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|:-------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 |   2022   |        **TLT-KGE**        |                              **Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion**                               |   CIKM    | Interpolation |   [Link](https://dl.acm.org/doi/pdf/10.1145/3511808.3557233)   |              [Link](https://github.com/zhangfw123/TLT-KGE)              |
@@ -968,7 +968,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 
 [Back](#Menu)
 
-### Time-Operation Guided Models <span id="EEEM"></span>
+#### Time-Operation Guided Models <span id="EEEM"></span>
 | **Year** |         **Model**         |                                               **Title**                                                | **Venue** |  **Scenario** |                                         **Paper**                                          |                                **Code**                                 |
 |:--------:|:-------------------------:|:------------------------------------------------------------------------------------------------------:|:---------:|:-------------:|:------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 |   2022   |         **CENET**         |              **Temporal Knowledge Graph Reasoning with Historical Contrastive Learnings**              |   AAAI    | Interpolation |                        [Link](https://arxiv.org/pdf/2211.10904.pdf)                        |                                    -                                    |
