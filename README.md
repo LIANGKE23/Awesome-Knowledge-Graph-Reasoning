@@ -33,7 +33,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 - - - [Inductive Datasets](#ISKRD)
 - - [Temporal Knowledge Graphs](#TKG) 
 - - [Multi-Modal Knowledge Graphs](#MMKG)
-- [Static Knowledge Graph Reasoning Papers](#S-KGR)
+- [Static Knowledge Graph Reasoning](#S-KGR)
 - - [Translational Models](#TM)
 - - [Tensor Decompositional Models](#TDM)
 - - [Neural Network Models](#NNM)
@@ -42,11 +42,11 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 - - - [Graph Neural Network Models](#GNN)
 - - [Path-based Models](#PM)
 - - [Rule-based Models](#RM)
-- [Temporal Knowledge Graph Reasoning Papers](#T-KGR)
+- [Temporal Knowledge Graph Reasoning](#T-KGR)
 - - [Time-Vector Enhanced Models](#EWEM)
 - - [Time-Operation Guided Models](#EEEM)
 - - [RNN-based Models](#RNNM)
-- [Multi-Modal Knowledge Graph Reasoning Papers](#MM-KGR)
+- [Multi-Modal Knowledge Graph Reasoning](#MM-KGR)
 - [Useful Libararies](#Useful-Libararies)
 
 
@@ -725,7 +725,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 
 [Back](#Menu)
 
-## Static Knowledge Graph Reasoning Papers <span id="S-KGR"></span> 
+## Static Knowledge Graph Reasoning <span id="S-KGR"></span> 
 ### Translational Models <span id="TM"></span> 
 | **Year** |    **Model**   |                                                          **Title**                                                          | **Venue** | **Scenario** |                                               **Paper**                                               |                                                             **Code**                                                             |
 |:--------:|:--------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---------:|:------------:|:-----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
@@ -921,7 +921,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 
 [Back](#Menu)
 
-## Temporal Knowledge Graph Reasoning Papers <span id="T-KGR"></span>
+## Temporal Knowledge Graph Reasoning <span id="T-KGR"></span>
 ### Time-Vector Enhanced Models <span id="EWEM"></span>
 | **Year** |         **Model**         |                                                                    **Title**                                                                     | **Venue** |  **Scenario** |                           **Paper**                            |                                **Code**                                 |
 |:--------:|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|:-------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------:|
