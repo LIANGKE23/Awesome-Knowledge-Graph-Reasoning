@@ -132,7 +132,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center">5410</td>
    <td align="center">626</td>
     <td align="center">638</td>
-    <td align="center" rowspan="24"> <a href="http://proceedings.mlr.press/v119/teru20a/teru20a-supp.pdf"> [Link] </a></td>
+    <td align="center" rowspan="24"> <a href="http://proceedings.mlr.press/v119/teru20a/teru20a-supp.pdf"> Link </a></td>
   </tr>
   <tr>
     <td align="center">ind-test-graph</td>
@@ -337,7 +337,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center" >35426</td>
     <td align="center" >8858</td>
     <td align="center" >-</td>
-    <td align="center"  rowspan="24"><br><br><a href="https://arxiv.org/pdf/2208.10378.pdf"> [Link] </a></td>
+    <td align="center"  rowspan="24"><br><br><a href="https://arxiv.org/pdf/2208.10378.pdf"> Link </a></td>
   </tr>
   <tr>
     <td align="center" >ind-test-graph-1</td>
