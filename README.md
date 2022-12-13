@@ -26,7 +26,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 ```
 
 # Bookmarks <span id="Menu"></span>
-- [Survey Papers](#SP)
+- [Survey Papers](#Survey-Papers)
 - [Datasets](#Useful-Datasets)  :fire:
 - - [Static Knowledge Graphs](#SKG)
 - - - [Transductive Datasets](#TSKRD) 
