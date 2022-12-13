@@ -16,11 +16,13 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 ## Our Survey Paper
 🌻  If the corresponding survey paper is also useful for you, please cite: 
 ```
-@article{AKGR,
-  title={Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal},
-  author={Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun},
-  journal={},
-  year={2022}
+@misc{AKGR,
+      title={Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal}, 
+      author={Ke Liang and Lingyuan Meng and Meng Liu and Yue Liu and Wenxuan Tu and Siwei Wang and Sihang Zhou and Xinwang Liu and Fuchun Sun},
+      year={2022},
+      eprint={2212.05767},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 
@@ -54,7 +56,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 ## Survey Papers <span id="SP"></span>
 | **Year**   | **Title**                                                                                     |  **Venue**    |                                       **Paper**                                            | **Code** |
 | ---- |----------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------:|:----:|
-| 2022  | **Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**  |  arXiv    |                   [Link](-)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
+| 2022  | **Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **An Overview of Knowledge Graph Reasoning: Key Technologies and Applications**  |  Journal of Sensor and Actuator Networks    |                   [Link](https://www.mdpi.com/2224-2708/11/4/78/pdf)                    |  -   |
