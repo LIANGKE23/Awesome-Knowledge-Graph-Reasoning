@@ -13,7 +13,6 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][AKGR-url]
 
-## Our Survey Paper
 🌻  If the corresponding survey paper is also useful for you, please cite: 
 ```
 @misc{AKGR,
