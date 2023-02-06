@@ -107,6 +107,8 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 |    [YAGO3-10](https://drive.google.com/file/d/1SbNyBv_U_rCNJCBeIwgd2EiBxJZE4bPi/view?usp=share_link)    |   123143   |     37      |     1079040      |      4978       |      4982       |         [Link](http://service.tsi.telecom-paristech.fr/cgi-bin//valipub_download.cgi?dId=284)          |  
 |     [YAGO37](https://drive.google.com/file/d/1Nrz7cg543w7CrdFrpxXwZF5UNw9HMs0t/view?usp=share_link)     |   123189   |     37      |      420623      |      50000      |      50000      |                              [Link](https://arxiv.org/pdf/1711.11231.pdf)                              | 
 |   [M-/YAGO39K](https://drive.google.com/file/d/1IOWoa84luYMUEuk0YJOZ3MCtTx6TIWqP/view?usp=share_link)   |   85484    |     39      |      354997      |      9341       |      9364       |                             [Link](https://aclanthology.org/D18-1222.pdf)                              | 
+|   [OpenBG500](https://drive.google.com/file/d/1pD_icqV-lLbCXN2rfBaq-Y5i_XcKVCzM/view?usp=sharing)   |   249743    |     500      |       1242550    |      5000      |      5000       |                             [Link](https://arxiv.org/pdf/2209.15214.pdf)                              | 
+|   [OpenBG500-L](https://drive.google.com/file/d/1DZZRqc8Yl9mfO66cOS8IKCuim_Bw2oOM/view?usp=sharing)   |   2782223    |     500    |      47410032    |      10000     |     10000      |                             [Link](https://arxiv.org/pdf/2209.15214.pdf)                              | 
 
 [Back](#bookmarks-)
 
@@ -720,6 +722,26 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center" >IMG</td>
     <td align="center" >145410</td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="3"><a href="https://drive.google.com/file/d/1jg4YcFgOfgjUJCnxBjw9w-6ID8VS_L-X/view?usp=sharing
+">OpenBG-IMG</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >27910</td>
+    <td align="center" rowspan="3">136</td>
+    <td align="center" rowspan="3">230087</td>
+    <td align="center" rowspan="3">5000</td>
+    <td align="center" rowspan="3">14675</td>
+    <td align="center" rowspan="3"><a href="https://arxiv.org/pdf/2209.15214.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >27910</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >14718</td>
+  </tr>
+  <tr>
 </tbody>
 </table>
 
