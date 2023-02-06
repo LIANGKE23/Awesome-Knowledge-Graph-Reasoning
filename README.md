@@ -94,7 +94,9 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 |     [Nation](https://drive.google.com/file/d/140ERPY0FwMY8QAay6CsBalbyghaHsyfD/view?usp=share_link)     |     14     |     55      |       1592       |       199       |       201       |                           [Link](https://github.com/ZhenfengLei/KGDatasets)                            |   
 |    [NELL23K](https://drive.google.com/file/d/15ZeGGS3P66OeDmPFnEv85QFs4fnbRBkO/view?usp=share_link)     |    22925    |     200     |      25445       |      4961       |      4952       |                  [Link](https://arxiv.org/pdf/2010.01899.pdf)                                          |  
 |    [NELL-995](https://drive.google.com/file/d/1_nHUdjz8OARdX3IPc52qoFnB0TRbjvXQ/view?usp=share_link)    |   75492    |     200     |      126176      |      5000       |      5000       |                              [Link](https://arxiv.org/pdf/1707.06690.pdf)                              |   
-|  [OpenBioLink](https://drive.google.com/file/d/1RjIwopVY81k_tZDH4bh1-faehTlcwHYP/view?usp=share_link)   |   180992   |     28      |     4192002      |     188394      |     183011      |                         [Link](https://doi.org/10.1093/bioinformatics/btaa274)                         | 
+|  [OpenBioLink](https://drive.google.com/file/d/1RjIwopVY81k_tZDH4bh1-faehTlcwHYP/view?usp=share_link)   |   180992   |     28      |     4192002      |     188394      |     183011      |                         [Link](https://doi.org/10.1093/bioinformatics/btaa274)                         |
+|  [OpenBG500](https://drive.google.com/file/d/1pD_icqV-lLbCXN2rfBaq-Y5i_XcKVCzM/view?usp=sharing)   |   249743    |     500      |       1242550    |      5000      |      5000       |                             [Link](https://arxiv.org/pdf/2209.15214.pdf)                              | 
+|   [OpenBG500-L](https://drive.google.com/file/d/1DZZRqc8Yl9mfO66cOS8IKCuim_Bw2oOM/view?usp=sharing)   |   2782223    |     500    |      47410032    |      10000     |     10000      |                             [Link](https://arxiv.org/pdf/2209.15214.pdf)                              |
 |     [Sport](https://drive.google.com/file/d/1SgOf4NY8idt6CT0pGKw3kc0DqDvlW4i2/view?usp=share_link)      |    1039    |      4      |       1349       |       358       |       358       |                        [Link](https://www.ijcai.org/proceedings/2020/0413.pdf)                         |
 |      [Toy](https://drive.google.com/file/d/1_aX5cAAfWoXqvD1IPDO5_OjIcscv-Hs0/view?usp=share_link)       |    280     |     112     |       4565       |       109       |       152       |                                [Link](https://github.com/uma-pi1/kge/)                                 | 
 |      [UMLS](https://drive.google.com/file/d/1OE2h81_7gqUGeY3Eew814G2Huo3xtleG/view?usp=share_link)      |    135     |     46      |       5216       |       652       |       661       |                        [Link](https://www.nlm.nih.gov/research/umls/index.html)                        |  
@@ -674,6 +676,26 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center" >IMG</td>
     <td align="center" >14244</td>
   </tr>
+ <tr>
+    <td align="center" colspan="2" rowspan="3"><a href="https://drive.google.com/file/d/1jg4YcFgOfgjUJCnxBjw9w-6ID8VS_L-X/view?usp=sharing
+">OpenBG-IMG</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >27910</td>
+    <td align="center" rowspan="3">136</td>
+    <td align="center" rowspan="3">230087</td>
+    <td align="center" rowspan="3">5000</td>
+    <td align="center" rowspan="3">14675</td>
+    <td align="center" rowspan="3"><a href="https://arxiv.org/pdf/2209.15214.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >27910</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >14718</td>
+  </tr>
+  <tr>
   <tr>
     <td align="center" colspan="2" rowspan="2"><a href="https://github.com/wangmengsd/richpedia">RichPedia</a></td>
     <td align="center" >KG</td>
