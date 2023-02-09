@@ -56,7 +56,8 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 ## Survey Papers <span id="survey-papers-"></span>
 | **Year**   | **Title**                                                                                     |  **Venue**    |                                       **Paper**                                            | **Code** |
 | ---- |----------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------:|:----:|
-| 2022  | **Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
+| 2023  | **Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
+| 2023  | **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2302.01859.pdf)                    | -     |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **An Overview of Knowledge Graph Reasoning: Key Technologies and Applications**  |  Journal of Sensor and Actuator Networks    |                   [Link](https://www.mdpi.com/2224-2708/11/4/78/pdf)                    |  -   |
 | 2021  | **Neural, symbolic and neural-symbolic reasoning on knowledge graphs**  |  Open AI    |                   [Link](https://www.sciencedirect.com/science/article/pii/S2666651021000061)                    |  -   |
