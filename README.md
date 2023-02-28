@@ -19,7 +19,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
   doi = {10.48550/ARXIV.2212.05767},
   url = {https://arxiv.org/abs/2212.05767},
   author = {Liang, Ke and Meng, Lingyuan and Liu, Meng and Liu, Yue and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang and Sun, Fuchun},
-  title = {Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal},
+  title = {A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal},
   publisher = {arXiv},
   year = {2022}
 }
