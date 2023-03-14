@@ -743,6 +743,50 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center" >IMG</td>
     <td align="center" >145410</td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="4"><a href="https://github.com/pouyapez/mkbe/tree/master/datasets/Movielens-100k%20plus">MovieLens-100k plus</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >2625</td>
+    <td align="center" rowspan="4">13</td>
+    <td align="center" rowspan="4">100000</td>
+    <td align="center" rowspan="4">-</td>
+    <td align="center" rowspan="4">-</td>
+    <td align="center" rowspan="8"><a href="https://arxiv.org/pdf/1809.01341">Link</a></td>
+  </tr>
+  <tr>
+    <td align="center" >Numerical</td>
+    <td align="center" >2625</td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >1682</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >1651</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" rowspan="4"><a href="https://github.com/pouyapez/mkbe/tree/master/datasets/Movielens-100k%20plus">Yago-10 plus</a></td>
+    <td align="center" >KG</td>
+    <td align="center" >123182</td>
+    <td align="center" rowspan="4">45</td>
+    <td align="center" rowspan="4">1079040</td>
+    <td align="center" rowspan="4">-</td>
+    <td align="center" rowspan="4">-</td>
+    
+  </tr>
+  <tr>
+    <td align="center" >Numerical</td>
+    <td align="center" >111406</td>
+  </tr>
+  <tr>
+    <td align="center" >TXT</td>
+    <td align="center" >107326</td>
+  </tr>
+  <tr>
+    <td align="center" >IMG</td>
+    <td align="center" >61246</td>
+  </tr>
 </tbody>
 </table>
 
