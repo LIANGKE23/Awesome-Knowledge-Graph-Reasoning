@@ -766,7 +766,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
     <td align="center" >1651</td>
   </tr>
   <tr>
-    <td align="center" colspan="2" rowspan="4"><a href="https://github.com/pouyapez/mkbe/tree/master/datasets/Movielens-100k%20plus">Yago-10 plus</a></td>
+    <td align="center" colspan="2" rowspan="4"><a href="https://github.com/pouyapez/mkbe/tree/master/datasets/YAGO-10%20plus">Yago-10 plus</a></td>
     <td align="center" >KG</td>
     <td align="center" >123182</td>
     <td align="center" rowspan="4">45</td>
