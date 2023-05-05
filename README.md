@@ -440,7 +440,7 @@ year={2022}
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">3ind-test-graph-1</td>
+    <td align="center">ind-test-graph-1</td>
     <td align="center">34488</td>
     <td align="center">3200</td>
     <td align="center">34496</td>
@@ -448,7 +448,7 @@ year={2022}
     <td align="center">3853</td>
   </tr>
   <tr>
-    <td align="center">3ind-test-graph-2</td>
+    <td align="center">ind-test-graph-2</td>
     <td align="center">36031</td>
     <td align="center">3200</td>
     <td align="center">35411</td>
@@ -456,7 +456,7 @@ year={2022}
     <td align="center">31059</td>
   </tr>
   <tr>
-    <td align="center">3ind-test-graph-3</td>
+    <td align="center">ind-test-graph-3</td>
     <td align="center">37660</td>
     <td align="center">3200</td>
     <td align="center">36543</td>
@@ -464,7 +464,7 @@ year={2022}
     <td align="center">31277</td>
   </tr>
   <tr>
-    <td align="center">3ind-test-graph-4</td>
+    <td align="center">ind-test-graph-4</td>
     <td align="center">39056</td>
     <td align="center">3200</td>
     <td align="center">37667</td>
@@ -472,7 +472,7 @@ year={2022}
     <td align="center">31427</td>
   </tr>
   <tr>
-    <td align="center">3ind-test-graph-5</td>
+    <td align="center">ind-test-graph-5</td>
     <td align="center">310616</td>
     <td align="center">3200</td>
     <td align="center">38876</td>
