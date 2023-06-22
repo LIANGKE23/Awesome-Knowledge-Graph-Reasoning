@@ -56,6 +56,7 @@ year={2022}
 | **Year**   | **Title**                                                                                     |  **Venue**    |                                       **Paper**                                            | **Code** |
 | ---- |----------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------:|:----:|
 | 2023  | **A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
+| 2023  | **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  |  arXiv    |                   [Link](https://arxiv.org/abs/2306.08302)                    | [Link](https://github.com/RManLuo/Awesome-LLM-KG)  |
 | 2023  | **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2302.01859.pdf)                    | -     |
 | 2022  | **Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2202.07412.pdf)                    |  -   |
 | 2022  | **An Overview of Knowledge Graph Reasoning: Key Technologies and Applications**  |  Journal of Sensor and Actuator Networks    |                   [Link](https://www.mdpi.com/2224-2708/11/4/78/pdf)                    |  -   |
@@ -1160,5 +1161,6 @@ year={2022}
 - GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
 - AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
+- Awesome-LLM-KG [code](https://github.com/RManLuo/Awesome-LLM-KG)
 
 [Back](#bookmarks-)
