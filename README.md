@@ -1100,6 +1100,8 @@ year={2022}
 |   2018   |         **HyTE**          |                 **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding**                  |   EMNLP   | Interpolation |           [Link](https://aclanthology.org/D18-1225/?ref=https://githubhelp.com)            |                                    -                                    |
 |   2018   |    **ChronoTranslate**    |                           **Temporal reasoning over event knowledge graphs**                           |   KBCOM   | Interpolation |  [Link](https://dsr.cise.ufl.edu/wp-content/uploads/2018/01/TemporalReasoning_KBCOM.pdf)   |                                    -                                    |
 
+[Back](#bookmarks-)
+
 ## Multi-Modal Knowledge Graph Reasoning <span id="multi-modal-knowledge-graph-reasoning-"></span>
 ## Transformer-agnostic Model <span id="transformer-agnostic-models-"></span>
 | **Year** |     **Model**     |                                                              **Title**                                                             | **Venue**  |                                                    **Paper**                                                     |                         **Code**                         |
@@ -1144,6 +1146,8 @@ year={2022}
 | 2016     | **DKRL**          | **Representation Learning of Knowledge Graphs with Entity Descriptions**                                                            | AAAI      |                  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/10329/10188)                       | [Link](https://github.com/xrb92/DKRL)                    |
 | 2016     | **CKE**           | **Collaborative Knowledge Base Embedding for Recommender Systems**                                                  | SIGKDD    | [Link](https://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)  | -                                                         |     
 
+[Back](#bookmarks-)
+
 ## Transformer-based Model <span id="transformer-based-models-"></span>
 | **Year** |     **Model**     |                                                              **Title**                                                             | **Venue** |                                                    **Paper**                                                     |                         **Code**                         |
 |:--------:|:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|
@@ -1161,7 +1165,6 @@ year={2022}
 |   2020   |     **CODEX**      | **CoDEx: A Comprehensive Knowledge Graph Completion Benchmark**                                          |   EMNLP    |                             [Link](https://aclanthology.org/2020.emnlp-main.669.pdf)                                   | [Link](https://bit.ly/2EPbrJs)                                                        |
 |   2019   |     **KG-BERT**     | **KG-BERT: BERT for Knowledge Graph Completion**                                          |   AAAI   |                                    [Link](https://arxiv.org/pdf/1909.03193.pdf)                                   | [Link](https://github.com/yao8839836/kg-bert)                              |
 |   2019   | **ATOMIC** | **ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning**                                          |    AAAI    |                                    [Link](https://arxiv.org/pdf/1811.00146.pdf)                                   | [Link](https://maartensap.com/atomic/)                              |
-
 
 [Back](#bookmarks-)
 
