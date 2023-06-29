@@ -1169,9 +1169,6 @@ year={2022}
 [Back](#bookmarks-)
 
 
-
-[Back](#bookmarks-)
-
 # Useful Libararies <span id="useful-libararies-"></span>
 - LibKGE [code](https://github.com/uma-pi1/kge)
 - OpenKE [code](https://github.com/thunlp/OpenKE)
