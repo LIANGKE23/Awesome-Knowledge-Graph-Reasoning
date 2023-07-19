@@ -2,7 +2,6 @@
 [stars-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/stargazers
 [fork-img]: https://img.shields.io/github/forks/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=lightblue&label=fork
 [fork-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=LIANGKE23.Awesome-Knowledge-Graph-Reasoning
 [AKGR-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
 
 # AKGR: Awesome Knowledge Graph Reasoning
@@ -11,7 +10,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][AKGR-url]
+
 
 🌻  If the corresponding survey paper is also useful for you, please cite: 
 ```
