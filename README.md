@@ -1024,8 +1024,8 @@ year={2022}
 ## Temporal Knowledge Graph Reasoning <span id="temporal-knowledge-graph-reasoning-"></span>
 ### Evaluation Papers <span id="rnn-based-models-"></span> 
 | **Year** | **Title** | **Venue** |  **Scenario**  | **Paper** | **Code** | 
-|:--------:|:----------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|:-------------:|
-| 2022 | **On the Evaluation of Methods for Temporal Knowledge Graph Forecasting** |  NeurIPS | Extrapolation | [Link]([https://dl.acm.org/doi/pdf/10.1145/3543507.3583242](https://openreview.net/pdf?id=J_SNklR-KR)) | [Link](https://github.com/nec-research/TKG-Forecasting-Evaluation) | 
+|:--------:|:----------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|:-------------:|:-------------:|
+| 2022 | **On the Evaluation of Methods for Temporal Knowledge Graph Forecasting** |  NeurIPS | Extrapolation | [Link](https://openreview.net/pdf?id=J_SNklR-KR) | [Link](https://github.com/nec-research/TKG-Forecasting-Evaluation) | 
 
 ### RNN-based Models <span id="rnn-based-models-"></span>
 | **Year** |    **Model**     |                                                            **Title**                                                             |       **Venue**        |  **Scenario** |                                         **Paper**                                          |                                **Code**                                |
