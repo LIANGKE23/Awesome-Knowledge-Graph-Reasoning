@@ -1183,5 +1183,6 @@ year={2022}
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
 - AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
 - Awesome-LLM-KG [code](https://github.com/RManLuo/Awesome-LLM-KG)
+- KG-Tutorials [code](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
 
 [Back](#bookmarks-)
