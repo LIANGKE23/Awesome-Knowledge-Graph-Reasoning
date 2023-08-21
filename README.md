@@ -56,7 +56,7 @@ year={2022}
 ## Survey Papers <span id="survey-papers-"></span>
 | **Year**   | **Title**                                                                                     |  **Venue**    |                                       **Paper**                                            | **Code** |
 | ---- |----------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------:|:----:|
-| 2023  | **A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
+| 2022  | **A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal (Ours)**   |  arXiv    |                   [Link](https://arxiv.org/pdf/2212.05767.pdf)                    | [Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)     |
 | 2023  | **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  |  arXiv    |                   [Link](https://arxiv.org/abs/2306.08302)                    | [Link](https://github.com/RManLuo/Awesome-LLM-KG)  |
 | 2023  | **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2308.02457)                    | [Link](https://github.com/jiapuwang/Awesome-TKGC)  |
 | 2023  | **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**  |  arXiv    |                   [Link](https://arxiv.org/pdf/2302.01859.pdf)                    | -     |
