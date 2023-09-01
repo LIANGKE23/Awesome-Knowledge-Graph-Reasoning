@@ -12,7 +12,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 [![GitHub forks][fork-img]][fork-url]
 
 <div  align="center">    
-    <img src="./logo_new.png" width=90% />
+    <img src="./logo_new.png" width=100% />
 </div>
 
 
