@@ -983,6 +983,7 @@ year={2022}
 | 2020     | **KG-BERT**      | **KG-BERT: BERT for knowledge graph completion**                                   | AAAI        | Transductive       | [Link](https://arxiv.org/pdf/1909.03193.pdf)                                                                                                                       | [Link](https://github.com/yao8839836/kg-bert)                                 |
 |   2020   |     **CODEX**      | **CoDEx: A Comprehensive Knowledge Graph Completion Benchmark**                                          |   EMNLP    |                             [Link](https://aclanthology.org/2020.emnlp-main.669.pdf)                                   | [Link](https://bit.ly/2EPbrJs)                                                        |
 |   2019   | **ATOMIC** | **ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning**                                          |    AAAI    |                                    [Link](https://arxiv.org/pdf/1811.00146.pdf)                                   | [Link](https://maartensap.com/atomic/)                              |
+|   2023   | **KG-R3** | **A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**                                          |    CIKM    |                                    [Link](https://arxiv.org/pdf/2212.09724.pdf)                                   | [Link](https://github.com/OSU-NLP-Group/KG-R3/)                              |
 
 [Back](#bookmarks-)
 
