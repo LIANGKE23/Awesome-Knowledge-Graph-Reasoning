@@ -743,7 +743,7 @@ year={2022}
   <tr>
     <td align="center" colspan="2" rowspan="2"><a href="https://drive.google.com/file/d/1ez-uaC-QtkT5LGfZJHVEE0OMWXMXABon/view?usp=sharing">WN18-IMG</a></td>
     <td align="center" >KG</td>
-    <td align="center" >14541</td>
+    <td align="center" >40943</td>
     <td align="center" rowspan="2">18</td>
     <td align="center" rowspan="2">141442</td>
     <td align="center" rowspan="2">5000</td>
