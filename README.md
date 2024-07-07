@@ -18,12 +18,16 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 
 🌻  If the corresponding survey paper is also useful for you, please cite: 
 ```
-@article{AKGR,
-title={Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal},
-author={Liang, Ke and Meng, Lingyuan and Liu, Meng and Liu, Yue and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang and Sun, Fuchun},
-journal={arXiv preprint arXiv:2212.05767},
-year={2022}
-}
+@ARTICLE{10577554,
+  author={Liang, Ke and Meng, Lingyuan and Liu, Meng and Liu, Yue and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang and Sun, Fuchun and He, Kunlun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/TPAMI.2024.3417451}}
+
 ```
 
 # Bookmarks <span id="bookmarks"></span>
