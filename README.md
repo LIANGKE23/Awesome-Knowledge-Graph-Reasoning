@@ -53,7 +53,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 - - - [Quadruple-based Models](#quadruple-based-models-)
 - - - [Path-based Models](#path-based-models-)
 - - - [Graph-based Models](#graph-based-models-)
-- [RNN-agnostic Models](#rnn-agnostic-models-)
+- - [RNN-agnostic Models](#rnn-agnostic-models-)
 - - - [Time-Vector Guided Models](#time-vector-guided-models-)
 - - - [Time-Operation Guided Models](#time-operation-guided-models-)
 - [Multi-Modal Knowledge Graph Reasoning](#multi-modal-knowledge-graph-reasoning-)
