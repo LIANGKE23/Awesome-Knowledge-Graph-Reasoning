@@ -16,7 +16,7 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 </div>
 
 
-🌻  If the corresponding survey paper is also useful for you, please cite: 
+🌻  If the corresponding survey paper is also useful for you, please cite here: 
 ```
 @ARTICLE{10577554,
   author={Liang, Ke and Meng, Lingyuan and Liu, Meng and Liu, Yue and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang and Sun, Fuchun and He, Kunlun},
