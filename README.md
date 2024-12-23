@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e3a77a95-a540-4497-9ab1-e8280e866add)![image](https://github.com/user-attachments/assets/fc28e0b9-7202-4eb5-b70d-bb2b6770d2cb)![image](https://github.com/user-attachments/assets/dcabb6d0-18b8-46d8-9104-6e5ac7a8a59c)[stars-img]: https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=yellow
+[image](https://github.com/user-attachments/assets/e3a77a95-a540-4497-9ab1-e8280e866add)![image](https://github.com/user-attachments/assets/fc28e0b9-7202-4eb5-b70d-bb2b6770d2cb)![image](https://github.com/user-attachments/assets/dcabb6d0-18b8-46d8-9104-6e5ac7a8a59c)[stars-img]: https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=yellow
 [stars-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/stargazers
 [fork-img]: https://img.shields.io/github/forks/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=lightblue&label=fork
 [fork-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/network/members
