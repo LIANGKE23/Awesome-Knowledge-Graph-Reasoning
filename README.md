@@ -1,4 +1,8 @@
 
+[stars-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/stargazers
+[fork-img]: https://img.shields.io/github/forks/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?color=lightblue&label=fork
+[fork-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/network/members
+[AKGR-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
 
 # AKGR: Awesome Knowledge Graph Reasoning
 
